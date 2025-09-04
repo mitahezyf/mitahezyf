@@ -1,16 +1,99 @@
-## Hi there 👋
 
-<!--
-**mitahezyf/mitahezyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Witam, tu Mitahezyf  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Student Informatyki i Ekonometrii | ⚙️ Entuzjasta Automatyzacji | 🚀 Twórca projektów open-source  
+
+Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby:  
+- ułatwiać życie,
+- budować intuicyjne aplikacje,  
+- łączyć świat software’u z wizją komputerową i AI.  
+
+---
+
+
+## 🛠️ Tech Stack  
+
+**Główne technologie, które opanowałem:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+
+**Obszary, które aktualnie eksploruję:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF0000?style=for-the-badge&logo=google&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A98F?style=for-the-badge&logo=academia&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6E0DD0?style=for-the-badge&logo=eyeq&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)  
+
+**Dodatkowe narzędzia, z którymi pracuję:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Datagrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) 
+ 
+
+---
+
+## 📂 Wybrane Projekty  
+
+### 🎵 **Aplikacja Muzyczna (Android)**  
+Pełnoprawny odtwarzacz muzyczny na Androida z wszystkimi standardowymi funkcjami.  
+- **Stack:** Kotlin, Android SDK, MediaPlayer API  
+- **Status:** ✅ Gotowy i funkcjonalny  
+- 🔗 [Repozytorium](#) *(prywatne/publiczne – zależnie jak ustawisz)*  
+
+---
+
+### 👆 **SysTouch – Sterowanie Gestami**  
+System do odczytywania gestów dłoni przez kamerę i sterowania komputerem za pomocą CV.  
+- **Stack:** Python, OpenCV, MediaPipe  
+- **Status:** 🚀 W aktywnym rozwoju  
+- **Cel:** Ułatwić bezdotykową interakcję z komputerem  
+
+---
+
+### 📊 **Eksperymenty z TimescaleDB i AI**  
+Badam integrację **TimescaleDB** z algorytmami ML i **pgvector**, aby tworzyć analizy danych.  
+- **Stack:** PostgreSQL, TimescaleDB, Docker, Python, Django  
+
+
+---
+## 📈 Aktywność GitHub  
+<div align="center"> 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mitahezyf&show_icons=true&theme=great-gatsby)
+
+
+
+![Kamil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mitahezyf&theme=great-gatsby)  
+</div>
+---
+
+## 🎯 Moje Cele  
+
+- 🔭 **Mastering Containerization** – dogłębna nauka Dockera i konteneryzacji  
+- 🌱 **Python Excellence** – budowanie eksperckiej wiedzy w Pythonie i ekosystemie ML/CV  
+- 🚀 **Portfolio Development** – rozwijanie projektów showcase dla przyszłych employerów  
+- 🤝 **Open Source** – aktywniejszy udział w projektach społecznościowych  
+
+---
+
+## 🌟 O mnie  
+
+- **Praktyczne podejście:** Skupiam się na tworzeniu oprogramowania, które rozwiązuje realne problemy  
+- **Samodzielność:** Od pomysłu, przez implementację, aż po deployment  
+- **Ciągły rozwój:** Każdy projekt to krok w stronę większej ekspertyzy  
+
+--- 
+
+ 
