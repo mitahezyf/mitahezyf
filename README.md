@@ -50,7 +50,8 @@ Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby
 Pełnoprawny odtwarzacz muzyczny na Androida z wszystkimi standardowymi funkcjami.  
 - **Stack:** Kotlin, Android SDK, MediaPlayer API  
 - **Status:** 🚀 W aktywnym rozwoju  
-- 🔗 [Repozytorium]([#](https://github.com/mitahezyf/MusicPlayer))  
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/mitahezyf/MusicPlayer)
+ 
 
 ---
 
@@ -77,7 +78,7 @@ Badam integrację **TimescaleDB** z algorytmami ML i **pgvector**, aby tworzyć 
 
 ![Kamil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mitahezyf&theme=great-gatsby)  
 </div>
----
+
 
 ## 🎯 Moje Cele  
 
