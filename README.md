@@ -49,8 +49,8 @@ Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby
 ### 🎵 **Aplikacja Muzyczna (Android)**  
 Pełnoprawny odtwarzacz muzyczny na Androida z wszystkimi standardowymi funkcjami.  
 - **Stack:** Kotlin, Android SDK, MediaPlayer API  
-- **Status:** ✅ Gotowy i funkcjonalny  
-- 🔗 [Repozytorium](#) *(prywatne/publiczne – zależnie jak ustawisz)*  
+- **Status:** 🚀 W aktywnym rozwoju  
+- 🔗 [Repozytorium]([#](https://github.com/mitahezyf/MusicPlayer))  
 
 ---
 
@@ -58,7 +58,7 @@ Pełnoprawny odtwarzacz muzyczny na Androida z wszystkimi standardowymi funkcjam
 System do odczytywania gestów dłoni przez kamerę i sterowania komputerem za pomocą CV.  
 - **Stack:** Python, OpenCV, MediaPipe  
 - **Status:** 🚀 W aktywnym rozwoju  
-- **Cel:** Ułatwić bezdotykową interakcję z komputerem  
+- **Cel:** Ułatwić bezdotykową interakcję z komputerem, zdobyć tytuł inżyniera  
 
 ---
 
