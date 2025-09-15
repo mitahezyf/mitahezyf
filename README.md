@@ -48,6 +48,7 @@ Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby
 ## 📈 Aktywność GitHub  
 <div align="center"> 
 
+
 ![Kamil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mitahezyf&theme=great-gatsby)  
 
 
