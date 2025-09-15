@@ -42,59 +42,23 @@ Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) 
  
 
----
-
-## 📂 Wybrane Projekty  
-
-### 🎵 **Aplikacja Muzyczna (Android)**  
-Pełnoprawny odtwarzacz muzyczny na Androida z wszystkimi standardowymi funkcjami.  
-- **Stack:** Kotlin, Android SDK, MediaPlayer API  
-- **Status:** 🚀 W aktywnym rozwoju  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/mitahezyf/MusicPlayer)
- 
-
----
-
-### 👆 **SysTouch – Sterowanie Gestami**  
-System do odczytywania gestów dłoni przez kamerę i sterowania komputerem za pomocą CV.  
-- **Stack:** Python, OpenCV, MediaPipe  
-- **Status:** 🚀 W aktywnym rozwoju  
-- **Cel:** Ułatwić bezdotykową interakcję z komputerem, zdobyć tytuł inżyniera  
-
----
-
-### 📊 **Eksperymenty z TimescaleDB i AI**  
-Badam integrację **TimescaleDB** z algorytmami ML i **pgvector**, aby tworzyć analizy danych.  
-- **Stack:** PostgreSQL, TimescaleDB, Docker, Python, Django  
 
 
 ---
 ## 📈 Aktywność GitHub  
 <div align="center"> 
 
+![Kamil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mitahezyf&theme=great-gatsby)  
+
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=mitahezyf&show_icons=true&theme=great-gatsby)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitahezyf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
 
-
-![Kamil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mitahezyf&theme=great-gatsby)  
 </div>
 
 
-## 🎯 Moje Cele  
 
-- 🔭 **Mastering Containerization** – dogłębna nauka Dockera i konteneryzacji  
-- 🌱 **Python Excellence** – budowanie eksperckiej wiedzy w Pythonie i ekosystemie ML/CV  
-- 🚀 **Portfolio Development** – rozwijanie projektów showcase dla przyszłych employerów  
-- 🤝 **Open Source** – aktywniejszy udział w projektach społecznościowych  
-
----
-
-## 🌟 O mnie  
-
-- **Praktyczne podejście:** Skupiam się na tworzeniu oprogramowania, które rozwiązuje realne problemy  
-- **Samodzielność:** Od pomysłu, przez implementację, aż po deployment  
-- **Ciągły rozwój:** Każdy projekt to krok w stronę większej ekspertyzy  
-
---- 
 
  
