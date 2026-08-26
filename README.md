@@ -1,8 +1,8 @@
 
 
-# 👋 Witam, tu Mitahezyf  
+# 👋 Witam
 
-### 🎓 Student Informatyki i Ekonometrii | ⚙️ Entuzjasta Automatyzacji | 🚀 Twórca projektów open-source  
+### 🎓 Absolwent Informatyki i Ekonometrii | ⚙️ Entuzjasta Automatyzacji | 🚀 Twórca projektów open-source  
 
 Tworzę **praktyczne rozwiązania**, które wykorzystują moc programowania, aby:  
 - ułatwiać życie,
